@@ -1,0 +1,302 @@
+[
+  {
+    "i": 0,
+    "ticket": "Cho mình hỏi, mình đặt chuột không dây mã đơn VN232232. Cho tôi trả lạ",
+    "ft_score": 0.0,
+    "ft_pred": "Thành trợ tốt. Gấp. Shop hỗ trợ tốt."
+  },
+  {
+    "i": 1,
+    "ticket": "Shop ơi, mình đặt ốp lưng điện thoại mã đơn VN812931. Hoàn tiền. Sớm n",
+    "ft_score": 0.0,
+    "ft_pred": "Bạn có thể thựa bỏ điện thoại mã đơn VN812931. Hoàn tiền. Sớm nhé. Bực mình."
+  },
+  {
+    "i": 2,
+    "ticket": "Xin chào, mình đặt đèn bàn LED mã đơn VN880807. Hoàn tiền. Quá hạn rồi",
+    "ft_score": 0.0,
+    "ft_pred": "Xin chào, mình đặt đèn bàn LED mã đơn VN880807. Hoàn tiền. Quá hạn rồi. Cảm ơn shop nhiều."
+  },
+  {
+    "i": 3,
+    "ticket": "Cho mình hỏi, mình đặt bình giữ nhiệt mã đơn VN804124. Chưa thấy tiền.",
+    "ft_score": 0.0,
+    "ft_pred": "Cảm ơn shop nhiều. Thời gian của một bạn có thể thựa bị thời gian của một bạn. Các bạn có "
+  },
+  {
+    "i": 4,
+    "ticket": "Cho mình hỏi, mình đặt đèn bàn LED mã đơn VN339109. Vỡ khi nhận. Gấp. ",
+    "ft_score": 0.0,
+    "ft_pred": "Cho mình hỏi, mình đặt đèn bàn LED mã đơn VN339109. Vỡ khi nhận. Gấp. Shop xem giúp."
+  },
+  {
+    "i": 5,
+    "ticket": "Shop ơi, mình đặt nồi chiên không dầu mã đơn DH249548. Thiếu phụ kiện.",
+    "ft_score": 0.0,
+    "ft_pred": "Thiếu phụ kiện. Khi nào tiện. Cho tôi hỏi."
+  },
+  {
+    "i": 6,
+    "ticket": "Xin chào, mình đặt balo laptop mã đơn DH863123. Đổi size. Hỏi cho biết",
+    "ft_score": 0.0,
+    "ft_pred": "Xin chào, mình đặt balo laptop mã đơn DH863123. Đổi size. Hỏi cho biết thôi. Lần cuối mua "
+  },
+  {
+    "i": 7,
+    "ticket": "Alo shop, mình đặt máy xay sinh tố mã đơn OD126693. Muốn đổi. Đã 3 ngà",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 8,
+    "ticket": "Xin chào, mình đặt chuột không dây mã đơn DH139158. Bảo hành bao lâu. ",
+    "ft_score": 0.0,
+    "ft_pred": "Xin chào, mình đặt chuột không dây mã đơn DH139158. Bảo hành bao lâu. Không vội. Mình vẫn "
+  },
+  {
+    "i": 9,
+    "ticket": "Cho mình hỏi, mình đặt chuột không dây mã đơn OD538419. Hoàn tiền. Mon",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 10,
+    "ticket": "Shop ơi, mình đặt balo laptop mã đơn VN294388. Hoàn tiền. Ngay lập tức",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 11,
+    "ticket": "Xin chào, mình đặt sạc dự phòng mã đơn DH264309. Giao hàng chậm. Không",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 12,
+    "ticket": "Shop ơi, mình đặt áo khoác gió mã đơn VN613097. Bị lỗi. Khi nào tiện. ",
+    "ft_score": 0.0,
+    "ft_pred": "Bạn có thể thựa bị lỗi. Các bạn có thể thựa bị lỗi. Bạn có thể thựa bị lỗi. Các bạn có thể"
+  },
+  {
+    "i": 13,
+    "ticket": "Cho mình hỏi, mình đặt tai nghe bluetooth mã đơn DH716609. Vỡ khi nhận",
+    "ft_score": 0.0,
+    "ft_pred": "Bạn có thêm bảo vệ các bội nhận, các bội nhận để điều hỏi, các bội nhận để điều hỏi, các b"
+  },
+  {
+    "i": 14,
+    "ticket": "Alo shop, mình đặt áo khoác gió mã đơn OD701973. Bảo hành bao lâu. Sớm",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau:  \"Mình đặt áo khoác gió mã đơn OD701973. Bảo hành bao lâu.\"  Explana"
+  },
+  {
+    "i": 15,
+    "ticket": "Xin chào, mình đặt bàn phím cơ mã đơn VN423493. Giá bao nhiêu. Ngay lậ",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 16,
+    "ticket": "Chào shop, mình đặt máy xay sinh tố mã đơn OD684661. Không hoạt động. ",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 17,
+    "ticket": "Shop ơi, mình đặt máy xay sinh tố mã đơn VN576006. Vỡ khi nhận. Không ",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau. Không vội. Rất thất vọng."
+  },
+  {
+    "i": 18,
+    "ticket": "Shop ơi, mình đặt máy xay sinh tố mã đơn DH777946. Khi nào có tiền về.",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau:  Máy xay sinh tố mã đơn DH777946.  Thời gian:  Phân loại ticket sau:"
+  },
+  {
+    "i": 19,
+    "ticket": "Xin chào, mình đặt nồi chiên không dầu mã đơn VN103615. Vỡ khi nhận. N",
+    "ft_score": 0.0,
+    "ft_pred": "Xin chào, mình đặt nồi chiên không dầu mã đơn VN103615. Nhờ shop kiểm tra."
+  },
+  {
+    "i": 20,
+    "ticket": "Cho mình hỏi, mình đặt bàn phím cơ mã đơn VN591641. Sai màu. Khẩn. Cho",
+    "ft_score": 0.0,
+    "ft_pred": "Cho mình hỏi. Sai màu. Khẩn. Cho tôi hỏi."
+  },
+  {
+    "i": 21,
+    "ticket": "Alo shop, mình đặt máy xay sinh tố mã đơn OD593253. Bảo hành bao lâu. ",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 22,
+    "ticket": "Cho mình hỏi, mình đặt máy xay sinh tố mã đơn OD468960. Cho tôi trả lạ",
+    "ft_score": 0.0,
+    "ft_pred": "Quá hạn rồi. Shop hỗ trợ tốt."
+  },
+  {
+    "i": 23,
+    "ticket": "Chào shop, mình đặt nồi chiên không dầu mã đơn VN558606. Giao hàng chậ",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 24,
+    "ticket": "Alo shop, mình đặt máy xay sinh tố mã đơn VN931861. Bị lỗi. Gấp. Cho t",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 25,
+    "ticket": "Cho mình hỏi, mình đặt tai nghe bluetooth mã đơn OD851441. Cho tôi trả",
+    "ft_score": 0.0,
+    "ft_pred": "Cho mình hỏi, mình đặt tai nghe bluetooth mã đơn OD851441. Cho tôi trả lại. Hỏi cho biết t"
+  },
+  {
+    "i": 26,
+    "ticket": "Alo shop, mình đặt máy xay sinh tố mã đơn VN724342. Trả lại tiền. Khôn",
+    "ft_score": 0.0,
+    "ft_pred": "Nhờ shop, mình đặt máy xay sinh tố mã đơn VN724342. Trả lại tiền. Không vội. Nhờ shop kiểm"
+  },
+  {
+    "i": 27,
+    "ticket": "Xin chào, mình đặt bàn phím cơ mã đơn VN130559. Cho tôi trả lại. Ngay ",
+    "ft_score": 0.0,
+    "ft_pred": "Xin chào, mình đặt bàn phím cơ mã đơn VN130559. Ngay lập tức. Mình vẫn tin tưởng shop."
+  },
+  {
+    "i": 28,
+    "ticket": "Xin chào, mình đặt bình giữ nhiệt mã đơn OD592390. Cho tôi trả lại. Kh",
+    "ft_score": 0.0,
+    "ft_pred": "Xin chào, mình đặt bình giữ nhiệt mã đơn OD592390. Cho tôi trả lại. Không vội. Cho tôi hỏi"
+  },
+  {
+    "i": 29,
+    "ticket": "Chào shop, mình đặt đèn bàn LED mã đơn VN718973. Cho tôi trả lại. Khôn",
+    "ft_score": 0.0,
+    "ft_pred": "Chào shop, mình đặt đèn bàn LED mã đơn VN718973. Quá tệ."
+  },
+  {
+    "i": 30,
+    "ticket": "Alo shop, mình đặt đèn bàn LED mã đơn OD936122. Hoàn lại. Sớm nhé. Lần",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 31,
+    "ticket": "Cho mình hỏi, mình đặt balo laptop mã đơn DH791218. Còn hàng không. Hỏ",
+    "ft_score": 0.0,
+    "ft_pred": "Mình đặt balo laptop có thôi có thôi. Mình đặt balo laptop có thôi có thôi. Mình đặt balo "
+  },
+  {
+    "i": 32,
+    "ticket": "Cho mình hỏi, mình đặt máy xay sinh tố mã đơn OD906403. Hoàn lại. Mong",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 33,
+    "ticket": "Shop ơi, mình đặt chuột không dây mã đơn VN382610. Khi nào có tiền về.",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 34,
+    "ticket": "Alo shop, mình đặt sạc dự phòng mã đơn VN406023. Giao hàng chậm. Quá h",
+    "ft_score": 0.0,
+    "ft_pred": "Bạn có thêm bảo vệ các bạn có thêm bảo vệ các bạn có thêm bảo vệ các bạn có thêm bảo vệ cá"
+  },
+  {
+    "i": 35,
+    "ticket": "Shop ơi, mình đặt balo laptop mã đơn DH462768. Hoàn lại. Sớm nhé. Nhờ ",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau.  Nhờ shop kiểm tra.  Phân loại ticket sau.  Nhờ shop kiểm tra.  Phân"
+  },
+  {
+    "i": 36,
+    "ticket": "Chào shop, mình đặt tai nghe bluetooth mã đơn VN161530. Giá bao nhiêu.",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 37,
+    "ticket": "Alo shop, mình đặt tai nghe bluetooth mã đơn VN708541. Có màu khác khô",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 38,
+    "ticket": "Cho mình hỏi, mình đặt bàn phím cơ mã đơn OD984347. Giá bao nhiêu. Nga",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 39,
+    "ticket": "Chào shop, mình đặt nồi chiên không dầu mã đơn VN949966. Hoàn tiền. Kh",
+    "ft_score": 0.0,
+    "ft_pred": "Chào shop, mình đặt nồi chiên không dầu mã đơn VN949966. Hoàn tiền. Khi nào tiện. Quá tệ."
+  },
+  {
+    "i": 40,
+    "ticket": "Chào shop, mình đặt đèn bàn LED mã đơn VN708765. Không hoạt động. Tôi ",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 41,
+    "ticket": "Cho mình hỏi, mình đặt đèn bàn LED mã đơn OD436045. Giao hàng chậm. Kh",
+    "ft_score": 0.0,
+    "ft_pred": "Cảm ơn shop nhiều. Cảm ơn shop nhiều. Cảm ơn shop nhiều. Cảm ơn shop nhiều. Cảm ơn shop nh"
+  },
+  {
+    "i": 42,
+    "ticket": "Cho mình hỏi, mình đặt tai nghe bluetooth mã đơn DH169142. Hoàn tiền. ",
+    "ft_score": 0.0,
+    "ft_pred": "Ngay lập tức. Ngay lập tức. Ngay lập tức. Ngay lập tức. Ngay lập tức. Ngay lập tức. Ngay l"
+  },
+  {
+    "i": 43,
+    "ticket": "Xin chào, mình đặt bình giữ nhiệt mã đơn DH866575. Khi nào có tiền về.",
+    "ft_score": 0.0,
+    "ft_pred": "Xin chào, mình đặt bình giữ nhiệt mã đơn DH866575. Khi nào có tiền về. Sớm nhé. Quá tệ."
+  },
+  {
+    "i": 44,
+    "ticket": "Shop ơi, mình đặt nồi chiên không dầu mã đơn OD169066. Trả hàng. Mong ",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 45,
+    "ticket": "Shop ơi, mình đặt sạc dự phòng mã đơn VN727311. Còn hàng không. Tôi cầ",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau:  Tôi cần trước ngày mai. Shop xem giúp.  Explanation:  - \"Phân loại\""
+  },
+  {
+    "i": 46,
+    "ticket": "Chào shop, mình đặt đèn bàn LED mã đơn OD819229. Sai màu. Khi nào tiện",
+    "ft_score": 0.0,
+    "ft_pred": "Chào shop, mình đặt đèn bàn LED mã đơn OD819229. Sai màu. Khi nào tiện. Shop hỗ trợ tốt."
+  },
+  {
+    "i": 47,
+    "ticket": "Cho mình hỏi, mình đặt ốp lưng điện thoại mã đơn DH936478. Shipper khô",
+    "ft_score": 0.0,
+    "ft_pred": "Thôi có thông báo, có thông báo. Có thông báo, có thông báo. Có thông báo, có thông báo. C"
+  },
+  {
+    "i": 48,
+    "ticket": "Alo shop, mình đặt ốp lưng điện thoại mã đơn DH734695. Giá bao nhiêu. ",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  },
+  {
+    "i": 49,
+    "ticket": "Chào shop, mình đặt ốp lưng điện thoại mã đơn VN833689. Sai màu. Sớm n",
+    "ft_score": 0.0,
+    "ft_pred": "Phân loại ticket sau."
+  }
+]

@@ -1,0 +1,62 @@
+[
+  {
+    "i": 0,
+    "ticket": "Cho mình hỏi, mình đặt chuột không dây mã đơn VN232232. Cho tôi trả lại. Gấp. Shop hỗ trợ tốt.",
+    "gold": {
+      "intent": "doi_tra",
+      "urgency": "cao",
+      "product": "chuột không dây",
+      "sentiment": "tich_cuc"
+    },
+    "baseline_b_prediction": "Cho mình hỏi, mình đặt chuột không dây mã đơn VN232232. Cho tôi trả lại. Gấp. Shop hỗ trợ tốt.",
+    "baseline_b_score": 0.0
+  },
+  {
+    "i": 1,
+    "ticket": "Shop ơi, mình đặt ốp lưng điện thoại mã đơn VN812931. Hoàn tiền. Sớm nhé. Bực mình.",
+    "gold": {
+      "intent": "hoan_tien",
+      "urgency": "trung_binh",
+      "product": "ốp lưng điện thoại",
+      "sentiment": "tieu_cuc"
+    },
+    "baseline_b_prediction": "JSON: {\"intent\": \"van_chuyen\", \"urgency\": \"trung_binh\", \"product\": \"bàn phím cơ\", \"sentiment\": \"trung_tinh\"}",
+    "baseline_b_score": 0.25
+  },
+  {
+    "i": 2,
+    "ticket": "Xin chào, mình đặt đèn bàn LED mã đơn VN880807. Hoàn tiền. Quá hạn rồi. Cảm ơn shop nhiều.",
+    "gold": {
+      "intent": "hoan_tien",
+      "urgency": "cao",
+      "product": "đèn bàn LED",
+      "sentiment": "tich_cuc"
+    },
+    "baseline_b_prediction": "Xin chào, mình đặt bàn LED mã đơn VN880807. Hoàn tiền. Quá hạn rồi. Cảm ơn shop nhiều.\n\nXin chào, mình đặt bàn LED mã đơn VN880807. Hoàn tiền. Quá hạn rồi. Cảm ơn shop nhiều.\n\nXin chào, mình đặt bàn",
+    "baseline_b_score": 0.0
+  },
+  {
+    "i": 3,
+    "ticket": "Cho mình hỏi, mình đặt bình giữ nhiệt mã đơn VN804124. Chưa thấy tiền. Khi nào tiện. Cảm ơn shop nhiều.",
+    "gold": {
+      "intent": "hoan_tien",
+      "urgency": "thap",
+      "product": "bình giữ nhiệt",
+      "sentiment": "tich_cuc"
+    },
+    "baseline_b_prediction": "Cảm ơn:\n\"Tình trợ về một bạn có thể thựa bạn có thể thựa bạn có thể thựa bạn có thể thựa bạn có thể thựa bạn có thể thựa bạn có thể thựa bạn có thể thựa bạn có thể thựa bạn có thể thựa bạn c",
+    "baseline_b_score": 0.0
+  },
+  {
+    "i": 4,
+    "ticket": "Cho mình hỏi, mình đặt đèn bàn LED mã đơn VN339109. Vỡ khi nhận. Gấp. Shop xem giúp.",
+    "gold": {
+      "intent": "san_pham_loi",
+      "urgency": "cao",
+      "product": "đèn bàn LED",
+      "sentiment": "trung_tinh"
+    },
+    "baseline_b_prediction": "Cho mình hỏi, mình đặt đèn bàn LED mã đơn VN339109. Vỡ khi nhận. Gấp. Shop xem giúp.\n\nDùng một các các các các các các các các các các các các các các các các các các các các các các các các các các các các c",
+    "baseline_b_score": 0.0
+  }
+]

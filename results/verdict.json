@@ -1,0 +1,37 @@
+{
+  "comparison": [
+    {
+      "run": "(a) base + naive prompt",
+      "target": 0.0,
+      "regression": 0.0667,
+      "format": 0.0,
+      "latency_ms": 1685.2,
+      "n": 50
+    },
+    {
+      "run": "(b) base + optimized prompt",
+      "target": 0.065,
+      "regression": 0.0667,
+      "format": 0.28,
+      "latency_ms": 1658.9,
+      "n": 50
+    },
+    {
+      "run": "(c) LoRA fine-tune",
+      "target": 0.0,
+      "regression": 0.0667,
+      "format": 0.0,
+      "latency_ms": 2145.5,
+      "n": 50
+    }
+  ],
+  "verdict": {
+    "passed": false,
+    "reasons": [
+      "target task did not beat the optimized-prompt baseline (0.000 vs 0.065, delta -0.065). A fine-tune that loses to a better prompt is not a fine-tune you should ship."
+    ],
+    "target_delta": -0.065,
+    "regression_delta": 0.0
+  },
+  "valid_trace_rate": 0.0
+}
